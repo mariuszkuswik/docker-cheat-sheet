@@ -31,27 +31,6 @@ Developers can get going quickly by starting with one of the 13,000+ apps availa
 
 Docker helps developers build and ship higher-quality applications, faster." -- [What is Docker](https://www.docker.com/what-docker#copy1)
 
-## Prerequisites
-
-I use [Oh My Zsh](https://github.com/ohmyzsh/oh-my-zsh) with the [Docker plugin](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#docker) for autocompletion of docker commands. YMMV.
-
-### Linux
-
-The 3.10.x kernel is [the minimum requirement](https://docs.docker.com/engine/installation/binaries/#check-kernel-dependencies) for Docker.
-
-### MacOS
-
-10.8 “Mountain Lion” or newer is required.
-
-### Windows 10
-
-Hyper-V must be enabled in BIOS
-
-VT-D must also be enabled if available (Intel Processors).
-
-### Windows Server
-
-Windows Server 2016 is the minimum version required to install docker and docker-compose. Limitations exist on this version, such as multiple virtual networks and Linux containers. Windows Server 2019 and later are recommended. 
 
 ## Installation
 
